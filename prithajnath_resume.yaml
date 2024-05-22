@@ -24,9 +24,9 @@ cv:
         start_date: 2022-05
         end_date: 2024-05
         highlights:
-          - Implemented ETL pipelines to daily ingest data on sales and inventory using Airflow, Python and SQL
+          - Implemented ETL pipelines to daily ingest sales, inventory and revenue data using Airflow, Python and SQL
           - Added sanity checks to ensure data quality for machine learning algorithms like k-nearest neighbords and regression models for time-series data.
-          - Analyzed inventory and sales data from clients' competitors using SQL and Redshift
+          - Implemented a competitor dashboard by analayzing inventory, revenue and sales data from clients' competitors using Flask, SQL, PostgreSQL and Redshift
           - Improved API response time by 50% (10s to 4.8s) through PostgreSQL query optimization that enabled real-time reports on historical sales and inventory data
           - Reduced Redis memory footprint by 60% by re-factoring background job module
           - Eliminated database migration errors in CircleCI by creating a Bash script that validates the migration tree on every new pull request
