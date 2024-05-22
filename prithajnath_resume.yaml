@@ -30,7 +30,6 @@ cv:
           - Improved API response time by 50% (10s to 4.8s) through PostgreSQL query optimization that enabled real-time reports on historical sales and inventory data
           - Reduced Redis memory footprint by 60% by re-factoring background job module
           - Eliminated database migration errors in CircleCI by creating a Bash script that validates the migration tree on every new pull request
-          - Coordinated with front-end team to implement new REST API endpoints with rigorous unit testing using Flask and SQLAlchemy
       - company: Faraday, Inc
         position: Integration Engineer
         location: Burlington, VT
