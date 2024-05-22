@@ -19,8 +19,8 @@
 
 - May 2022 to May 2024
 - New York, New York
-- Implemented ETL pipelines to daily ingest sales, inventory and revenue data using Airflow, Python and SQL
-- Added sanity checks to ensure data quality for machine learning algorithms like k-nearest neighbords and regression models for time-series data.
+- Implemented ETL pipelines to daily ingest sales, inventory and revenue data using Apache Airflow, Python and SQL
+- Added sanity checks to ensure data quality for machine learning algorithms like k-nearest neighbords and time-series regression
 - Implemented a competitor dashboard by analayzing inventory, revenue and sales data from clients' competitors using Flask, SQL, PostgreSQL and Redshift
 - Improved API response time by 50% (10s to 4.8s) through PostgreSQL query optimization that enabled real-time reports on historical sales and inventory data
 - Reduced Redis memory footprint by 60% by re-factoring background job module
@@ -32,7 +32,7 @@
 - Burlington, VT
 - Implemented ETL pipelines on Kubernetes (EKS) to ingest customer data and geospatial data using Python, Ruby, SQL and BigQuery
 - Implemented micro-services in Python and Ruby to seed Facebook lookalike audiences with AI powered cohorts and increased client ROAS by 50%
-- Implemented a micro-serivce in Python to deploy AI powered bid modifiers to Google Ads at the zip code level and increased client conversion rates by 38%
+- Implemented a micro-serivce in Python to deploy AI powered bid modifiers to Google Ads at the zip code level and increased clients' ad campaign conversion rates by 38%
 
 ## IXIS Digital, Jr Data Scientist
 
@@ -53,5 +53,5 @@
 ## My Secret Santa
 
 - Launched a top 20 web app on Product Hunt for highly randomized Secret Santa draws that reached 100+ users from US, Canada, India, Ukraine, France and more
-- Implemented features like Oauth login, notifcations, anonymous messaging etc using Flask, SQLAlchemy, Celery, Redis and PostgreSQL
+- Implemented features like OAuth login, notifcations, anonymous messaging etc using Flask, SQLAlchemy, Celery, Redis and PostgreSQL
 
