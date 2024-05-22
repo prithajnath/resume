@@ -1,2 +1,3 @@
 #/usr/bin bash
-rendercv render Prithaj_Nath_CV.yaml
+rendercv render prithajnath_resume.yaml
+cp rendercv_output/Prithaj_Nath_CV.pdf prithaj.pdf
