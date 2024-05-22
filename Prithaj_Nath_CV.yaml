@@ -1,0 +1,67 @@
+cv:
+  name: Prithaj Nath
+  location: Arlington, VA
+  email: prithajnath@gmail.com
+  phone: "+15186451487"
+  website: https://www.prithaj.dev/
+  social_networks:
+    - network: LinkedIn
+      username: iamprithaj
+    - network: GitHub
+      username: prithajnath
+  sections:
+    technologies:
+      - label: Languages
+        details: Python, SQL, Ruby, JavaScript, Golang
+      - label: DevOps
+        details: Docker, Terraform, Kubernetes, AWS EC2/Lambda/ELB/EKS/SNS/SQS
+      - label: Databases
+        details: PostgreSQL, BigQuery, Snowflake, Redshift
+    experience:
+      - company: Singuli, Inc
+        position: Software Engineer
+        location: New York, New York
+        start_date: 2022-05
+        end_date: 2024-05
+        highlights:
+          - Implemented ETL pipelines to daily ingest data on sales and inventory using Airflow, Python and SQL
+          - Added sanity checks to ensure data quality for machine learning algorithms like k-nearest neighbords and regression models for time-series data.
+          - Analyzed inventory and sales data from clients' competitors using SQL and Redshift
+          - Improved API response time by 50% (10s to 4.8s) through PostgreSQL query optimization that enabled real-time reports on historical sales and inventory data
+          - Reduced Redis memory footprint by 60% by re-factoring background job module
+          - Eliminated database migration errors in CircleCI by creating a Bash script that validates the migration tree on every new pull request
+          - Coordinated with front-end team to implement new REST API endpoints with rigorous unit testing using Flask and SQLAlchemy
+      - company: Faraday, Inc
+        position: Integration Engineer
+        location: Burlington, VT
+        start_date: 2019-06
+        end_date: 2022-05
+        highlights:
+          - Implemented ETL pipelines on Kubernetes (EKS) to ingest customer data and geospatial data using Python, Ruby, SQL and BigQuery
+          - Implemented micro-services in Python and Ruby to seed Facebook lookalike audiences with AI powered cohorts and increased client ROAS by 50%
+          - Implemented a micro-serivce in Python to deploy AI powered bid modifiers to Google Ads at the zip code level and increased client
+            conversion rates by 38%
+      - company: IXIS Digital
+        position: Jr Data Scientist
+        location: Burlington, VT
+        start_date: 2017-08
+        end_date: 2019-09
+        highlights:
+          - Analyzed e-commerce data from Google Analytics and Adobe Analytics and generated ad-hoc reports using R, SQL and Python
+          - Implemented CI/CD pipelines for bare metal servers using Docker and GitLab CI
+    education:
+      - institution: SUNY Plattsburgh
+        area: Computer Science
+        degree: BS
+        start_date: 2013-08
+        end_date: 2017-05
+        highlights:
+          - "**Coursework:** Data Mining, Linear Algebra I & II, Probability And Statistics,
+            Design And Analysis Of Algorithms, Databases And Web Applications"
+    projects:
+      - name: My Secret Santa
+        highlights:
+          - Launched a top 20 web app on Product Hunt for highly randomized Secret Santa draws that reached 100+ users from US, Canada, India, Ukraine, France and more
+          - Implemented features like Oauth login, notifcations, anonymous messaging etc using Flask, SQLAlchemy, Celery, Redis and PostgreSQL
+design:
+  theme: sb2nov
