@@ -9,6 +9,8 @@ cv:
       username: iamprithaj
     - network: GitHub
       username: prithajnath
+    - network: StackOverflow
+      username: 3007613/prithajnath
   sections:
     technologies:
       - label: Languages

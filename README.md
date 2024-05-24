@@ -6,6 +6,7 @@
 - Website: [www.prithaj.dev](https://www.prithaj.dev/)
 - LinkedIn: [iamprithaj](https://linkedin.com/in/iamprithaj)
 - GitHub: [prithajnath](https://github.com/prithajnath)
+- StackOverflow: [3007613/prithajnath](https://stackoverflow.com/users/3007613/prithajnath)
 
 
 # Technologies

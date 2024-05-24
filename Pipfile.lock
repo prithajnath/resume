@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "eedd05eacebd8eaeafb9127aa22752184331c795aa1e55617baf00c5fbe4b154"
+            "sha256": "d12c3e62d960949dae831ea316a2b4b5b1a4f5cbe17f93106eaefdc8864596c4"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -320,13 +320,9 @@
             "version": "==1.24.1"
         },
         "rendercv": {
-            "hashes": [
-                "sha256:4fe996d2cd7ccb8b3c1f256395b54006a8dd2c026081c2cbf85a1ed17a0fbc1d",
-                "sha256:ffbdfcd76a4575d339da2be24a513cf3e4fc92efd8778e6f21e79cab769d4865"
-            ],
-            "index": "pypi",
+            "git": "git+https://github.com/sinaatalay/rendercv.git",
             "markers": "python_version >= '3.10'",
-            "version": "==1.9"
+            "ref": "17f7854b7d2883a9fdee221788fa6f4e4ffd389d"
         },
         "rich": {
             "hashes": [
@@ -397,7 +393,7 @@
                 "sha256:f481f16baec5290e45aebdc2a5168ebc6d35189ae6fea7a58787613a25f6e875",
                 "sha256:fff3573c2db359f091e1589c3d7c5fc2f86f5bdb6f24252c2d8e539d4e45f412"
             ],
-            "markers": "platform_python_implementation == 'CPython' and python_version < '3.13'",
+            "markers": "python_version < '3.13' and platform_python_implementation == 'CPython'",
             "version": "==0.2.8"
         },
         "shellingham": {
@@ -418,11 +414,11 @@
         },
         "typing-extensions": {
             "hashes": [
-                "sha256:83f085bd5ca59c80295fc2a82ab5dac679cbe02b9f33f7d83af68e241bea51b0",
-                "sha256:c1f94d72897edaf4ce775bb7558d5b79d8126906a14ea5ed1635921406c0387a"
+                "sha256:8cbcdc8606ebcb0d95453ad7dc5065e6237b6aa230a31e81d0f440c30fed5fd8",
+                "sha256:b349c66bea9016ac22978d800cfff206d5f9816951f12a7d0ec5578b0a819594"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==4.11.0"
+            "version": "==4.12.0"
         }
     },
     "develop": {}

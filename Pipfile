@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-rendercv = "*"
+rendercv = {git = "git+https://github.com/sinaatalay/rendercv.git"}
 
 [dev-packages]
 
