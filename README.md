@@ -12,7 +12,7 @@
 # Technologies
 
 - Languages: Python, SQL, Ruby, JavaScript, Golang
-- DevOps: Docker, Terraform, Kubernetes, AWS EC2/Lambda/ELB/EKS/SNS/SQS
+- DevOps/Cloud: Docker, Terraform, Kubernetes, AWS EC2/Lambda/ELB/EKS/SNS/SQS
 - Databases: PostgreSQL, BigQuery, Snowflake, Redshift
 # Experience
 
@@ -31,7 +31,7 @@
 
 - June 2019 to May 2022
 - Burlington, VT
-- Implemented ETL pipelines on Kubernetes (EKS) to ingest customer data and geospatial data using Python, Ruby, SQL and BigQuery
+- Implemented ETL pipelines on Kubernetes (EKS) to ingest customer data and geospatial data from 50+ data sources using Python, Ruby, SQL and BigQuery
 - Implemented micro-services in Python and Ruby to seed Facebook lookalike audiences with AI powered cohorts and increased client ROAS by 50%
 - Implemented a micro-serivce in Python to deploy AI powered bid modifiers to Google Ads at the zip code level and increased clients' ad campaign conversion rates by 38%
 
@@ -41,6 +41,7 @@
 - Burlington, VT
 - Analyzed e-commerce data from Google Analytics and Adobe Analytics and generated ad-hoc reports using R, SQL and Python
 - Implemented CI/CD pipelines for bare metal servers using Docker and GitLab CI
+- Built a Python tool to concurrently scrape 100+ sites and keep track of changes in critical DOM elements
 
 # Education
 

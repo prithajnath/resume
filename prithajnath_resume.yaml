@@ -15,7 +15,7 @@ cv:
     technologies:
       - label: Languages
         details: Python, SQL, Ruby, JavaScript, Golang
-      - label: DevOps
+      - label: DevOps/Cloud
         details: Docker, Terraform, Kubernetes, AWS EC2/Lambda/ELB/EKS/SNS/SQS
       - label: Databases
         details: PostgreSQL, BigQuery, Snowflake, Redshift
@@ -38,7 +38,7 @@ cv:
         start_date: 2019-06
         end_date: 2022-05
         highlights:
-          - Implemented ETL pipelines on Kubernetes (EKS) to ingest customer data and geospatial data using Python, Ruby, SQL and BigQuery
+          - Implemented ETL pipelines on Kubernetes (EKS) to ingest customer data and geospatial data from 50+ data sources using Python, Ruby, SQL and BigQuery
           - Implemented micro-services in Python and Ruby to seed Facebook lookalike audiences with AI powered cohorts and increased client ROAS by 50%
           - Implemented a micro-serivce in Python to deploy AI powered bid modifiers to Google Ads at the zip code level and increased clients' ad campaign
             conversion rates by 38%
@@ -50,6 +50,7 @@ cv:
         highlights:
           - Analyzed e-commerce data from Google Analytics and Adobe Analytics and generated ad-hoc reports using R, SQL and Python
           - Implemented CI/CD pipelines for bare metal servers using Docker and GitLab CI
+          - Built a Python tool to concurrently scrape 100+ sites and keep track of changes in critical DOM elements
     education:
       - institution: SUNY Plattsburgh
         area: Computer Science
@@ -66,3 +67,12 @@ cv:
           - Implemented features like OAuth login, notifcations, anonymous messaging etc using Flask, SQLAlchemy, Celery, Redis and PostgreSQL
 design:
   theme: sb2nov
+  font_size: 10pt
+  margins:
+    highlights_area:
+      top: 0.2 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.1 cm
+    section_title:
+      top: 0.1 cm
+      bottom: 0.1 cm
