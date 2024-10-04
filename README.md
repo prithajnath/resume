@@ -2,7 +2,7 @@
 
 - Phone: +1 518 645 1487
 - Email: [prithajnath@gmail.com](mailto:prithajnath@gmail.com)
-- Location: Arlington, VA
+- Location: Burlington, VT
 - Website: [www.prithaj.dev](https://www.prithaj.dev/)
 - LinkedIn: [iamprithaj](https://linkedin.com/in/iamprithaj)
 - GitHub: [prithajnath](https://github.com/prithajnath)
@@ -11,9 +11,19 @@
 
 # Technologies
 
-- Languages: Python, SQL, Ruby, JavaScript, Golang
+- Languages: Python, SQL, Ruby, JavaScript
 - DevOps/Cloud: Docker, Terraform, Kubernetes, AWS EC2/Lambda/ELB/EKS/SNS/SQS
 - Databases: PostgreSQL, BigQuery, Snowflake, Redshift
+# Education
+
+## University Of Vermont, MS in Computer Science
+
+- Aug. 2024 to present
+
+## SUNY Plattsburgh, BS in Computer Science
+
+- Aug. 2013 to May 2017
+
 # Experience
 
 ## Singuli, Inc, Software Engineer
@@ -21,7 +31,7 @@
 - May 2022 to May 2024
 - New York, New York
 - Reduced median client onboarding time by 80% by impleneting ETL pipelines to daily ingest sales, inventory and revenue data using Apache Airflow, Python and SQL
-- Improved mean forecast accuracy by 20% by adding sanity checks to ensure data quality for machine learning algorithms like k-nearest neighbords and time-series regression
+- Improved mean forecast accuracy by 20% by adding sanity checks to ensure data quality for machine learning algorithms like k-means clustering and time-series regression
 - Increased number of prospective clients by 30% by implementing a competitor dashboard by analayzing inventory, revenue and sales data from clients' competitors using Flask, SQL, PostgreSQL and Redshift
 - Improved API response time by 50% (10s to 4.8s) through PostgreSQL query optimization that enabled real-time reports on historical sales and inventory data
 - Reduced Redis memory footprint by 60% by re-factoring background job module
@@ -42,12 +52,6 @@
 - Analyzed e-commerce data from Google Analytics and Adobe Analytics and generated ad-hoc reports using R, SQL and Python
 - Implemented CI/CD pipelines for bare metal servers using Docker and GitLab CI
 - Built a Python tool to concurrently scrape 100+ sites and keep track of changes in critical DOM elements
-
-# Education
-
-## SUNY Plattsburgh, BS in Computer Science
-
-- Aug. 2013 to May 2017
 
 # Projects
 
