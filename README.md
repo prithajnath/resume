@@ -16,11 +16,11 @@
 - Databases: PostgreSQL, BigQuery, Snowflake, Redshift
 # Education
 
-## University Of Vermont, MS in Computer Science
+## University Of Vermont, M.S. in Computer Science with a specialization in complex systems
 
 - Aug. 2024 to present
 
-## SUNY Plattsburgh, BS in Computer Science
+## SUNY Plattsburgh, B.S. in Computer Science
 
 - Aug. 2013 to May 2017
 
@@ -31,11 +31,10 @@
 - May 2022 to May 2024
 - New York, New York
 - Reduced median client onboarding time by 80% by impleneting ETL pipelines to daily ingest sales, inventory and revenue data using Apache Airflow, Python and SQL
-- Improved mean forecast accuracy by 20% by adding sanity checks to ensure data quality for machine learning algorithms like k-means clustering and time-series regression
+- Improved forecast quality by 20% by adding sanity checks to ensure data quality for machine learning algorithms like k-means clustering and time-series regression
 - Increased number of prospective clients by 30% by implementing a competitor dashboard by analayzing inventory, revenue and sales data from clients' competitors using Flask, SQL, PostgreSQL and Redshift
 - Improved API response time by 50% (10s to 4.8s) through PostgreSQL query optimization that enabled real-time reports on historical sales and inventory data
 - Reduced Redis memory footprint by 60% by re-factoring background job module
-- Eliminated database migration errors in CircleCI by creating a Bash script that validates the migration tree on every new pull request
 
 ## Faraday, Inc, Integration Engineer
 

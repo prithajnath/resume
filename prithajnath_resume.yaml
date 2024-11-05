@@ -21,12 +21,12 @@ cv:
         details: PostgreSQL, BigQuery, Snowflake, Redshift
     education:
       - institution: University Of Vermont
-        area: Computer Science
-        degree: MS
+        area: Computer Science with a specialization in complex systems
+        degree: M.S.
         start_date: 2024-08
       - institution: SUNY Plattsburgh
         area: Computer Science
-        degree: BS
+        degree: B.S.
         start_date: 2013-08
         end_date: 2017-05
     experience:
@@ -37,11 +37,10 @@ cv:
         end_date: 2024-05
         highlights:
           - Reduced median client onboarding time by 80% by impleneting ETL pipelines to daily ingest sales, inventory and revenue data using Apache Airflow, Python and SQL
-          - Improved mean forecast accuracy by 20% by adding sanity checks to ensure data quality for machine learning algorithms like k-means clustering and time-series regression
+          - Improved forecast quality by 20% by adding sanity checks to ensure data quality for machine learning algorithms like k-means clustering and time-series regression
           - Increased number of prospective clients by 30% by implementing a competitor dashboard by analayzing inventory, revenue and sales data from clients' competitors using Flask, SQL, PostgreSQL and Redshift
           - Improved API response time by 50% (10s to 4.8s) through PostgreSQL query optimization that enabled real-time reports on historical sales and inventory data
           - Reduced Redis memory footprint by 60% by re-factoring background job module
-          - Eliminated database migration errors in CircleCI by creating a Bash script that validates the migration tree on every new pull request
       - company: Faraday, Inc
         position: Integration Engineer
         location: Burlington, VT
