@@ -14,7 +14,9 @@ cv:
   sections:
     technologies:
       - label: Languages
-        details: Python, SQL, Ruby, JavaScript
+        details: Python, SQL, Bash, Ruby, JavaScript
+      - label: ML/AI
+        details: Pandas, NumPy, matplotlib, seaborn
       - label: DevOps/Cloud
         details: Docker, Terraform, Kubernetes, AWS EC2/Lambda/ELB/EKS/SNS/SQS
       - label: Databases

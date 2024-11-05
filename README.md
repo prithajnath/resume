@@ -11,7 +11,8 @@
 
 # Technologies
 
-- Languages: Python, SQL, Ruby, JavaScript
+- Languages: Python, SQL, Bash, Ruby, JavaScript
+- ML/AI: Pandas, NumPy, matplotlib, seaborn
 - DevOps/Cloud: Docker, Terraform, Kubernetes, AWS EC2/Lambda/ELB/EKS/SNS/SQS
 - Databases: PostgreSQL, BigQuery, Snowflake, Redshift
 # Education
