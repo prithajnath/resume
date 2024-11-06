@@ -16,7 +16,7 @@ cv:
       - label: Languages
         details: Python, SQL, Bash, Ruby, JavaScript
       - label: ML/AI
-        details: Pandas, NumPy, matplotlib, seaborn
+        details: Pandas, NumPy, scikit-learn, matplotlib, seaborn
       - label: DevOps/Cloud
         details: Docker, Terraform, Kubernetes, AWS EC2/Lambda/ELB/EKS/SNS/SQS
       - label: Databases
